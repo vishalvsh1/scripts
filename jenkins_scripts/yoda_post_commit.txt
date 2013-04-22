@@ -1,0 +1,1 @@
+Updating pom with new version of project after the release.
